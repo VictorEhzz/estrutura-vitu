@@ -19,7 +19,7 @@ public class ListExemplo{
         Collections.sort(nomeAlunoList);
 
         System.out.println("Essa é sua lista" + nomeAlunoList);
-        System.out.println("Abaixo estão os elementos pego na posição");
+        System.out.println("Abaixo estão os elementos pegos na posição");
         System.out.println(nomeAlunoList.get(4));
         System.out.println(nomeAlunoList.remove(1));
         System.out.println("O tamanho da lista é: " + nomeAlunoList.size());
